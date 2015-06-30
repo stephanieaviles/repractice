@@ -1,1 +1,3 @@
-Not a cool read me just yet.
+Following Facebook's React Tutorial. 
+
+Building a simple comment box.
